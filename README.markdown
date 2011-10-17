@@ -14,6 +14,7 @@ Exactly the same as a VirtualList except you have two additional methods.
     {
         name: 'list'
         kind: 'AtomicVirtualList'
+        ...
     },
 
     refreshRow: function(index) {
